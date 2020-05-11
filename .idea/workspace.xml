@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e4cfa9c-ba42-4b08-af61-50ea82804966" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/angauthen/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angauthen/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="authen@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="authen@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="authen@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="authen: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="authen@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="authen: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="authen@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="authen: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="authen@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="authen: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/angauthen" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1bdsHuHYmdPdjM7ZJ5J3cQkHcds" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/angauthen/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration name="authen" type="Python.DjangoServer" factoryName="Django server">
+      <module name="authen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e4cfa9c-ba42-4b08-af61-50ea82804966" name="Default Changelist" comment="" />
+      <created>1588973220104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588973220104</updated>
+      <workItem from="1588973247675" duration="16959000" />
+      <workItem from="1589071752556" duration="4500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="182" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588975348480">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="555" y="182" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988@0.27.1920.988" timestamp="1588975348480" />
+    <state x="768" y="240" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1588979859112">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="768" y="240" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.988@0.27.1920.988" timestamp="1588979859112" />
+  </component>
+</project>
