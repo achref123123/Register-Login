@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="authen@localhost" uuid="f4d8db40-7c3b-4c33-b7b3-0e935421fe0d">
+    <data-source source="LOCAL" name="login@localhost" uuid="2448b104-33a9-4616-9ec4-d2b53358722a">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/authen</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/login</jdbc-url>
     </data-source>
   </component>
 </project>
